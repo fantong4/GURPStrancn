@@ -1,1 +1,2 @@
-# GURPStrancn
+# GURPS 目录
+
