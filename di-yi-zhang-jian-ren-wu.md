@@ -1,23 +1,18 @@
 # 第一章 創建人物
 
-## Getting Super Powers
-
-Becoming a super hero is a fairly straight forward process:
-
 ```
-$ give me super-powers
+當你進入角色扮演時,你取代了另外一個人——一個由你創建的“人物”。泛統讓你能決定你將會成為具體什麼樣的英雄人
+物。星際礦工?巫師?專業的時間旅行家?你可以從小說中的英雄人物裏汲取靈感,亦可以完全從無到有的創建一個全新的
+“自我”。一旦你知道你想扮演何種角色,也就是該把這個角色帶到遊戲中的時候了。GM(遊戲主-那個運轉這個遊戲的人)
+將會給予你一定數量人物點數,可以用來購買人物的能力。例如,你想成為的人物越強大,所需花費的點數就越多。
+你也可以購買有用社會方面的特性,諸如財富,以及購買被稱為優勢的特殊能力。如果你想獲得的能力超過了 GM 給你提供的
+點數,你可以通過接受低於平均水準的力量,外貌,財富和社會條件等來換得額外的點數,亦或通過接受劣勢——特殊的缺
+點,諸如近視或恐高症——來獲得。
+高級玩家可以通過運用強化因數或限制因數來熟練的調整這些特性。這些因數將會升高或降低特性的費用。從本章的人物卡
+開始,在你填寫它的過程中記錄你的點數花費。本書在每個階段已包括一個創建範例來演示這個過程。
 ```
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
 
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 
 
 
